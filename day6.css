@@ -1,0 +1,56 @@
+body {
+    background-color: #1C2839;
+    font-family: "Playfair Display", serif;
+}
+
+.container {
+    background-color: #415169;
+    width: 400px;
+    height: 720px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #5E6D88;
+    color: white;
+    padding-top: 10px;
+    margin: 50px auto;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    margin: 40px auto 20px auto;
+    display: block;
+    box-shadow: 5px 10px 15px #1C2839;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+button {
+    background-color: #1C2839;
+    width: 150px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+}
+
+button a {
+    text-decoration: none;
+    color: white;
+}
+
+button:hover {
+    background-color: #2D3D52;
+}
